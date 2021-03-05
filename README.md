@@ -1,2 +1,2 @@
 # hi-everyone
-This is my first testing repository.
+My name is Tim, i live in Russia and i would like to introduse my code to you!
